@@ -1,5 +1,5 @@
 # crud-alunos-server
-🖥🌐 NodeJS RESTful API of a students crud sistem
+🖥🌐 NodeJS Restful API of a students crud sistem
 
 ### Installation
 
