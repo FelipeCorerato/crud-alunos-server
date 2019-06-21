@@ -1,5 +1,5 @@
 # crud-alunos-server
-📱🌐 This a client to a NodeJS Restful api. You can create, update, delete or search for students.
+🖥🌐 NodeJS RESTful API of a students crud sistem
 
 ### Installation
 
