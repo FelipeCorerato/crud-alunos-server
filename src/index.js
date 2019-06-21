@@ -24,4 +24,5 @@ app.use(cors());
 
 app.use(require('./routes'));
 
-app.listen(8080);
+var porta = process.env.PORT || 8080;
+app.listen(porta);
